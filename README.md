@@ -12,7 +12,7 @@ My work combines behavioural neuroscience experiments (fiber photometry recordin
 
 <p align="center">
   <a href="https://silverwilliam.github.io/">Website</a> ·
-  <a href="https://www.psy.ox.ac.uk/people/william-silver">Oxford profile</a> ·
+  <a href="https://www.psy.ox.ac.uk/people/william-silver">Lab profile</a> ·
   <a href="https://openreview.net/profile?id=%7EWilliam_Silver1">OpenReview</a> ·
   <a href="https://orcid.org/0009-0009-1968-2869">ORCID</a>
 </p>
